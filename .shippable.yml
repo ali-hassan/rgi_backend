@@ -1,0 +1,47 @@
+language: node_js
+
+node_js:
+  - 0.10
+
+branches:
+  only:
+    - staging
+    - master
+
+env:
+  global:
+    # Shippable API token used to trigger deploy
+    - secure: XWYGvdtFycbhWMCmj91b6mfuQ/4s0u1TI+aXGkgwsBdGEdmg92QEGUociiBFj+aPQaj4QrA6sgKWVE0sbGS3/KhaAs1eFK3ZuGZmlgGSVaZTuPHrD8pSYV7fj8jsdODGh5RAEF9Ed6Ueq9sAFZ93EOYX5jVpai2EUu1iNy8fuFw7QeCWpucyxrbfng+AwixRn/o/mbUD0mPi2iFtrZGNSqn94WBVVfElNfaWVMfoojYk1vw2/VOnts6x43LyzFDnLsnKCEHW/mBII2r1n8LFnufmedV6PRJdoIHH35XTMJrkYvQlEIaCOm1KSBXCql8uRpe+4wsfWT4Q5kVryk9G6g==
+
+build:
+  ci:
+    # Create the version file
+    - ./create_version.sh
+
+    # Use the `--cache-from` option to use the latest image in the repo as a cache for this build. Available since Docker 1.13
+    # This should speed up the build time.
+    - docker build -t nrgi/rgi-api:$BRANCH.$COMMIT --cache-from nrgi/rgi-api:$BRANCH .
+
+    # Create the `latest` tag and force it in case the tag is already there from a previous build
+    - docker tag nrgi/rgi-api:$BRANCH.$COMMIT nrgi/rgi-api:$BRANCH
+
+    - docker push nrgi/rgi-api:$BRANCH
+    - docker push nrgi/rgi-api:$BRANCH.$COMMIT
+
+    - ./deploy.sh
+
+integrations:
+  hub:
+    - integrationName: nrgiDockerHub
+      type: docker
+  notifications:
+    - integrationName: email
+      type: email
+      recipients:
+        - nrgi@vitaminsoftware.com
+      branches:
+        only:
+          - master
+          - staging
+      on_success: change
+      on_failure: always

@@ -1,0 +1,110 @@
+COUNTRY;ISO;SECTOR;TYPE;NAME SOE;SOL;REVENUE;UNITS;SCORE;RANK1;RANK2
+Algeria;DZA;O&G;State-owned enterprise governance;Sonatrach;100 %; 	70.366 ; million (2014);47;39;31
+Angola;AGO;O&G;State-owned enterprise governance;Sonangol;100 %; 	19.135 ; million (2015);56;29;23
+Argentina;ARG;O&G;State-owned enterprise governance;Yacimientos Petrolíferos Fiscales S.A.;100 %; 	14.236 ; million (2016);83;3;2
+Azerbaijan;AZE;O&G;State-owned enterprise governance;State Oil Company of the Azerbaijan Republic;100 %; 	32.309 ; million (2015);70;13;10
+Bahrain;BHR;O&G;State-owned enterprise governance;Bahrain Petroleum Company;100 %; 	5.310 ; million (2012);32;60;42
+Bangladesh;BGD;O&G;State-owned enterprise governance;Petrobangla;100 %; 	1.039 ; million (2015);54;33;27
+Bolivia;BOL;O&G;State-owned enterprise governance;Yacimientos Petroliferos Fiscales Bolivianos;100 %; 	6.812 ; million (2015);70;12;9
+Brazil;BRA;O&G;State-owned enterprise governance;Petrobras;54 %; 	97.314 ; million (2015);65;21;16
+Cameroon;CMR;O&G;State-owned enterprise governance;National Hydrocarbons Corporation;100 %; 	1.096 ; million (2015);52;35;29
+Chad;TCD;O&G;State-owned enterprise governance;Socièté des Hydrocarbures du Tchad;100 %;N/A; 	-   ;46;40;32
+China;CHN;O&G;State-owned enterprise governance;China National Petroleum Company;100 %; 	68.419 ; million (2015);58;28;22
+Colombia (oil and gas);COL;O&G;State-owned enterprise governance;Ecopetrol;88 %; 	18.998 ; million (2015);73;11;8
+Congo;COG;O&G;State-owned enterprise governance;Société Nationale des Pétroles du Congo;100 %;N/A; 	-   ;40;45;35
+Côte d'Ivoire;CIV;O&G;State-owned enterprise governance;Société Nationale d'Opérations Petrolière de Cote d'Ivoire;100 %; 	539 ;million (2013);61;26;20
+Cuba;CUB;O&G;State-owned enterprise governance;Unión Cuba-Petroleo;100 %;N/A; 	-   ;39;48;37
+Democratic Republic of Congo (oil and gas);COD;O&G;State-owned enterprise governance;Societe Nationale des Hydrocarbures (previously Cohydro);100 %;N/A; 	-   ;25;65;46
+Ecuador;ECU;O&G;State-owned enterprise governance;Petroecuador;100 %; 	8.174 ; million (2016);56;31;25
+Egypt;EGY;O&G;State-owned enterprise governance;Egyptian General Petroleum Corporation;100 %;N/A; 	-   ;36;52;38
+Equatorial Guinea;GNQ;O&G;State-owned enterprise governance;GePetrol;100 %;N/A; 	-   ;7;73;52
+Gabon;GAB;O&G;State-owned enterprise governance;Gabon Oil Company;100 %;N/A; 	-   ;11;71;50
+Ghana (oil and gas);GHA;O&G;State-owned enterprise governance;Ghana National Petroleum Corporation;100 %; 	180 ; million (2015);75;8;5
+India;IND;O&G;State-owned enterprise governance;Oil and Natural Gas Corporation of India;69 %; 	23.374 ; million (2015/16);87;2;1
+Indonesia (oil and gas);IDN;O&G;State-owned enterprise governance;Pertamina;100 %; 	41.763 ; million (2015);66;16;11
+Iran;IRN;O&G;State-owned enterprise governance;National Iranian Oil Company;100 %;N/A; 	-   ;22;67;47
+Iraq;IRQ;O&G;State-owned enterprise governance;South Oil Company;100 %;N/A; 	-   ;66;18;13
+Kazakhstan;KAZ;O&G;State-owned enterprise governance;Kazmunaigaz;100 %; 	492 ; million (2016);63;25;19
+Kuwait;KWT;O&G;State-owned enterprise governance;Kuwait Petroleum Company;100 %; 	106.002 ; million (2015);65;19;14
+Libya;LBY;O&G;State-owned enterprise governance;National Oil Corporation;100 %;N/A; 	-   ;32;58;40
+Malaysia;MYS;O&G;State-owned enterprise governance;Petronas;100 %; 	63.412 ; million (2015);65;20;15
+Mexico (oil and gas);MEX;O&G;State-owned enterprise governance;Petróleos Mexicanos;100 %; 	52.241 ; million (2016);74;10;7
+Mozambique;MOZ;O&G;State-owned enterprise governance;Empresa Nacional de Hidrocarbonetos;100 %; 	115 ; million (2014);53;34;28
+Myanmar (oil and gas);MMR;O&G;State-owned enterprise governance;Myanmar Oil and Gas Enterprise;100 %;N/A; 	-   ;35;56;39
+Nigeria;NGA;O&G;State-owned enterprise governance;Nigeria National Petroleum Corporation;100 %; 	6.992 ; million (2014);44;42;33
+Norway;NOR;O&G;State-owned enterprise governance;Statoil;67 %; 	45.873 ; million (2016);80;4;3
+Oman;OMN;O&G;State-owned enterprise governance;Oman Oil Company;100 %; 	724 ; million (2011);32;58;40
+Qatar;QAT;O&G;State-owned enterprise governance;Qatar Petroleum;100 %; 	463.355 ; million (2014);55;32;26
+Russia;RUS;O&G;State-owned enterprise governance;Gazprom;50 %; 	90.571 ; million (2016);56;30;24
+Saudi Arabia;SAU;O&G;State-owned enterprise governance;Saudi Aramco;100 %;N/A; million (2012);27;63;44
+South Sudan;SSD;O&G;State-owned enterprise governance;Nile Petroleum Corporation;100 %;N/A; 	-   ;28;62;43
+Sudan;SDN;O&G;State-owned enterprise governance;Sudanese Petroleum Corporation;100 %;N/A; 	-   ;13;69;48
+Tanzania (oil and gas);TZA;O&G;State-owned enterprise governance;Tanzania Petroleum Development Corporation;100 %; 	35 ; million (2014/15);64;23;17
+Timor-Leste;TLS;O&G;State-owned enterprise governance;Timor Gás & Petróleo, Empresa Pública;100 %; 	10 ; million (2015);50;36;30
+Trinidad and Tobago;TTO;O&G;State-owned enterprise governance;Petroleum Company of Trinidad and Tobago;100 %; 	3.047 ; million (2015);75;9;6
+Tunisia (oil and gas);TUN;O&G;State-owned enterprise governance;Entreprise Tunisienne des Activités Pétrolière;100 %; 	621 ; million (2015);66;17;12
+Turkmenistan;TKM;O&G;State-owned enterprise governance;Turkmengas State Concern;100 %;N/A; 	-   ;10;72;51
+Uganda;UGA;O&G;State-owned enterprise governance;Uganda National Oil Company Limited;100 %;N/A; 	-   ;13;70;49
+Ukraine;UKR;O&G;State-owned enterprise governance;Naftogaz;100 %; 	6.596 ; million (2014);76;7;4
+United Arab Emirates;ARE;O&G;State-owned enterprise governance;Abu Dhabi National Oil Company;100 %;N/A; 	-   ;27;64;45
+Uzbekistan;UZB;O&G;State-owned enterprise governance;Uzbekneftegaz National Holding Company;100 %;N/A; 	-   ;41;43;34
+Venezuela;VEN;O&G;State-owned enterprise governance;Petróleos de Venezuela;100 %;N/A; million (2015);58;27;21
+Vietnam;VNM;O&G;State-owned enterprise governance;PetroVietnam;100 %;N/A; million (2015);64;24;18
+Yemen;YEM;O&G;State-owned enterprise governance;Yemen Oil and Gas Corporation;100 %;N/A; 	-   ;40;47;36
+Botswana;BWA;M;State-owned enterprise governance;Debswana;50 %; 	3.922 ; million (2014);29;61;18
+Chile;CHL;M;State-owned enterprise governance;Codelco;100 %; 	11.693 ; million (2015);90;1;1
+Democratic Republic of Congo (mining);COD;M;State-owned enterprise governance;Gecamines;100 %;N/A; 	-   ;35;53;15
+Eritrea;ERI;M;State-owned enterprise governance;Eritrean National Mining Corporation;100 %;N/A; 	-   ;4;74;22
+Ethiopia;ETH;M;State-owned enterprise governance;Adola Gold Mine;N/A;N/A; 	-   ;24;66;20
+Ghana (mining);GHA;M;State-owned enterprise governance;Sankofa Prestea Limited;100 %; 	19 ; million (2015);41;44;10
+Guinea;GIN;M;State-owned enterprise governance;Societe Guineenne du Patrimoine Minier;100 %; 	1 ; million (2015);38;50;13
+Indonesia (mining);IDN;M;State-owned enterprise governance;Antam;65 %; 	680 ; million (2015);78;6;3
+Kyrgyz Republic;KGZ;M;State-owned enterprise governance;Kyrgyzaltyn OJSC;100 %; 	485 ; million (2015);50;37;7
+Madagascar;MDG;M;State-owned enterprise governance;Kraomita Malagasy;100 %;N/A; 	-   ;36;51;14
+Mauritania;MRT;M;State-owned enterprise governance;Société Nationale Industrielle et Minière;78 %; 	1.117 ; million (2010);38;49;12
+Mongolia;MNG;M;State-owned enterprise governance;Erdenes Mongol;100 %; 	1.246 ; million (2015/16);40;46;11
+Morocco;MAR;M;State-owned enterprise governance;Office Chérifien des Phosphate;95 %; 	4.890 ; million (2015);79;5;2
+Myanmar (mining);MMR;M;State-owned enterprise governance;Myanmar Gems Enterprise;100 %;N/A; 	-   ;16;68;21
+Niger;NER;M;State-owned enterprise governance;Société de Patrimoine des Mines du Niger;100 %; 	127 ; million (2009);35;54;16
+Papua New Guinea;PNG;M;State-owned enterprise governance;Petromin;100 %; 	76 ; million (2014);49;38;8
+Philippines;PHL;M;State-owned enterprise governance;Philippine Mining Development Corporation;100 %; 	2 ; million (2015);70;14;4
+South Africa;ZAF;M;State-owned enterprise governance;African Exploration Mining and Finance Corporation;100 %; 	18 ; million (2015);65;22;6
+Tanzania (mining);TZA;M;State-owned enterprise governance;State Mining Corporation;100 %;N/A; 	-   ;33;57;18
+Tunisia (mining);TUN;M;State-owned enterprise governance;Compagnie de Phosphate de Gafsa;100 %; 	260 ; million (2013);35;55;17
+Zambia;ZMB;M;State-owned enterprise governance;Zambia Consolidated Copper Mines Investment Holdings;78 %; 	163 ; million (2014);69;15;5
+Zimbabwe;ZWE;M;State-owned enterprise governance;Zimbabwe Mining Development Corporation;100 %; 	307 ; million (2012);45;41;9
+Algeria;DZA;;Sovereign wealth fund governance;Fonds de Régulation des Recettes;; 	7.570 ; million (2015); 	21 ; 	28 ;
+Angola;AGO;;Sovereign wealth fund governance;Fundo Soberano de Angola;; 	4.882 ; million (2014); 	25 ; 	24 ;
+Australia (Western);AU-WA;;Sovereign wealth fund governance;Western Australian Future Fund;; 	300 ;million (2013); 	61 ; 	13 ;
+Azerbaijan;AZE;;Sovereign wealth fund governance;State Oil Fund of the Republic of Azerbaijan;; 	33.600 ; million (2015); 	52 ; 	15 ;
+Bahrain;BHR;;Sovereign wealth fund governance;Future Generations Reserve Fund;; 	400 ; million (2015); 	32 ; 	23 ;
+Botswana;BWA;;Sovereign wealth fund governance;Pula Fund;; 	6.040 ; million (2015); 	65 ; 	12 ;
+Canada (Alberta);CA-AB;;Sovereign wealth fund governance;Alberta Heritage Savings Trust Fund;; 	17.900 ; million (2015); 	88 ; 	7 ;
+Chile;CHL;;Sovereign wealth fund governance;Economic and Social Stabilisation Fund ;; 	13.966 ; million (2015); 	92 ; 	4 ;
+Chad;TCD;;Sovereign wealth fund governance;Mécanisme de stérilisation des revenus pétroliers provenant de l'exploitation des trois champs de Komé, Miandoum et Bolobo;;N/A;; 	17 ; 	30 ;
+Colombia (mining);COL;M;Sovereign wealth fund governance;Savings and Stabilization Fund;; 	3.240 ;million (2016); 	100 ; 	1 ;
+Colombia (oil and gas);COL;O&G;Sovereign wealth fund governance;Savings and Stabilization Fund;; 	3.240 ;million (2016); 	100 ; 	1 ;
+Equatorial Guinea;GNQ;;Sovereign wealth fund governance;Fund for Future Generations;; 	80 ; million (2015); 	7 ; 	31 ;
+Gabon;GAB;;Sovereign wealth fund governance;"Fonds Souverain de la République Gabonaise
+Fonds Gabonais d’Investissements Stratégiques";; 	1.000 ; million (2015); 	23 ; 	25 ;
+Ghana (oil and gas);GHA;O&G;Sovereign wealth fund governance;Ghana Stabilization Fund;; 	208 ;million (2016); 	93 ; 	3 ;
+Iran;IRN;;Sovereign wealth fund governance;National Development Fund of Iran;; 	53.307 ; million (2015); 	70 ; 	9 ;
+Kazakhstan;KAZ;;Sovereign wealth fund governance;National Fund of Kazakhstan;; 	62 ; million (2016); 	67 ; 	11 ;
+Kuwait;KWT;;Sovereign wealth fund governance;Kuwait Investment Authority;; 	524.000 ;million (2015); 	61 ; 	14 ;
+Libya;LBY;;Sovereign wealth fund governance;Libyan Investment Authority;; 	67.000 ;million (2015); 	32 ; 	22 ;
+Malaysia;MYS;;Sovereign wealth fund governance;National Trust Fund;; 	3.019 ; million (2013); 	42 ; 	18 ;
+Mexico (oil and gas);MEX;O&G;Sovereign wealth fund governance;Oil Revenues Stabilization Fund;; 	1 ; million (2015); 	45 ; 	17 ;
+Mongolia;MNG;;Sovereign wealth fund governance;Fiscal Stability Fund;; 	250 ;million (2016); 	42 ; 	18 ;
+Nigeria;NGA;;Sovereign wealth fund governance;Excess Crude Account ;; 	2.400 ; million (2017); 	4 ; 	33 ;
+Norway;NOR;;Sovereign wealth fund governance;Government Pension Fund Global;; 	926.940 ; million (2015); 	90 ; 	5 ;
+Oman;OMN;;Sovereign wealth fund governance;State General Reserve Fund;; 	34.000 ; million (2016); 	47 ; 	16 ;
+Peru;PER;;Sovereign wealth fund governance;Fiscal Stabilization Fund;; 	7.904 ; million (2016); 	69 ; 	10 ;
+Qatar;QAT;;Sovereign wealth fund governance;Qatar Investment Authority;; 	338.400 ; million (2015); 	4 ; 	33 ;
+Russia;RUS;;Sovereign wealth fund governance;National Wealth Fund;; 	73.570 ; million (2017); 	40 ; 	20 ;
+Saudi Arabia;SAU;;Sovereign wealth fund governance;Saudi Arabian Monetary Authority Foreign Holdings;; 	514.000 ; million (2015); 	18 ; 	29 ;
+Sudan;SDN;;Sovereign wealth fund governance;Oil Revenue Stabilisation Account ;;N/A;; 	7 ; 	32 ;
+Timor-Leste;TLS;;Sovereign wealth fund governance;Petroleum Fund;; 	16.238 ; million (2015); 	88 ; 	6 ;
+Trinidad and Tobago;TTO;;Sovereign wealth fund governance;Heritage and Stabilization Fund;; 	5.880 ; million (2014); 	74 ; 	8 ;
+Uganda;UGA;;Sovereign wealth fund governance;Petroleum Revenue Investment Reserve;; 	72 ;; 	36 ; 	21 ;
+United Arab Emirates;ARE;;Sovereign wealth fund governance;Abu Dhabi Investment Authority;; 	589.800 ; million (2015); 	21 ; 	27 ;
+Venezuela;VEN;;Sovereign wealth fund governance;Fondo de Desarollo Nacional;; 	17.250 ; million (2015); 	22 ; 	26 ;

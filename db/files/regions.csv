@@ -1,0 +1,81 @@
+ISO,COUNTRY,M,O&G,REGION 1,REGION 2
+AFG,Afghanistan,1,0,EURA,
+DZA,Algeria,0,1,MENA,AF
+AGO,Angola,0,1,SSA,AF
+ARG,Argentina,0,1,LAC,
+AU-WA,Australia (Western),1,0,ASIAP,
+AZE,Azerbaijan,0,1,EURA,
+BHR,Bahrain,0,1,MENA,
+BGD,Bangladesh,0,1,ASIAP,
+BOL,Bolivia,0,1,LAC,
+BWA,Botswana,1,0,SSA,AF
+BRA,Brazil,0,1,LAC,
+BFA,Burkina Faso,1,0,SSA,AF
+KHM,Mongolia,1,0,ASIAP,
+CMR,Cameroon,0,1,SSA,AF
+CA-AB,Canada (Alberta),0,1,NA,
+TCD,Chad,0,1,SSA,AF
+CHL,Chile,1,0,LAC,
+CHN,China,0,1,ASIAP,
+COL,Colombia,0,1,LAC,
+COG,Congo,0,1,SSA,AF
+CIV,Cote d'Ivoire,0,1,SSA,AF
+CUB,Cuba,0,1,LAC,
+COD,Democratic Republic of Congo,0,1,SSA,AF
+ECU,Ecuador,0,1,LAC,
+EGY,Egypt,0,1,MENA,AF
+GNQ,Equatorial Guinea,0,1,SSA,AF
+ERI,Eritrea,1,0,SSA,AF
+ETH,Ethiopia,1,0,SSA,AF
+GAB,Gabon,0,1,SSA,AF
+GHA,Ghana,0,1,SSA,AF
+GTM,Guatemala,1,0,LAC,
+GIN,Guinea,1,0,SSA,AF
+IND,India,0,1,ASIAP,
+IDN,Indonesia,0,1,ASIAP,
+IRN,Iran,0,1,MENA,
+IRQ,Iraq,0,1,MENA,
+KAZ,Kazakhstan,0,1,EURA,
+KWT,Kuwait,0,1,MENA,
+KGZ,Kyrgyzstan,1,0,EURA,
+LAO,Laos,1,0,ASIAP,
+LBR,Liberia,1,0,SSA,AF
+LBY,Libya,0,1,MENA,AF
+MDG,Madagascar,1,0,SSA,AF
+MYS,Malaysia,0,1,ASIAP,
+MLI,Mali,1,0,SSA,AF
+MRT,Mauritania,1,0,MENA,AF
+MEX,Mexico,0,1,LAC,
+MNG,Mongolia,1,0,EURA,
+MAR,Morocco,1,0,MENA,AF
+MOZ,Mozambique,0,1,SSA,AF
+MMR,Myanmar,1,0,ASIAP,
+NER,Niger,1,0,SSA,AF
+NGA,Nigeria,0,1,SSA,AF
+NOR,Norway,0,1,WE,
+OMN,Oman,0,1,MENA,
+PNG,Papua New Guinea,1,0,ASIAP,
+PER,Peru,1,0,LAC,
+PHL,Philippines,1,0,ASIAP,
+QAT,Qatar,0,1,MENA,
+RUS,Russia,0,1,EURA,
+SAU,Saudi Arabia,0,1,MENA,
+SLE,Sierra Leone,1,0,SSA,AF
+ZAF,South Africa,1,0,SSA,AF
+SSD,South Sudan,0,1,SSA,AF
+SDN,Sudan,0,1,SSA,AF
+TZA,Tanzania,1,0,SSA,AF
+TLS,Timor-Leste,0,1,ASIAP,
+TTO,Trinidad and Tobago,0,1,LAC,
+TUN,Tunisia,1,0,MENA,AF
+TKM,Turkmenistan,0,1,EURA,
+UGA,Uganda,0,1,SSA,AF
+UKR,Ukraine,0,1,EURA,
+ARE,United Arab Emirates,0,1,MENA,AF
+GBR,United Kingdom,0,1,WE,
+GOM,United States of America (Gulf of Mexico),0,1,NA,
+UZB,Uzbekistan,0,1,EURA,
+VNM,Vietnam,0,1,ASIAP,
+YEM,Yemen,0,1,MENA,
+ZMB,Zambia,1,0,SSA,AF
+ZWE,Zimbabwe,1,0,SSA,AF

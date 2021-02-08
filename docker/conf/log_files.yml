@@ -1,0 +1,18 @@
+files:
+  - path: /var/log/supervisor/supervisord.log
+    tag: ecs-rgi-api-$RAILS_ENV-supervisord.log
+  - path: /var/log/supervisor/remote-syslog.log
+    tag: ecs-rgi-api-$RAILS_ENV-supervisor-remote-syslog.log
+  - path: /var/log/nginx/access.log
+    tag: ecs-rgi-api-$RAILS_ENV-nginx-access.log
+  - path: /var/log/nginx/error.log
+    tag: ecs-rgi-api-$RAILS_ENV-nginx-error.log
+  - path: /var/log/supervisor/nrgi-backoffice-api.log
+    tag: ecs-rgi-api-$RAILS_ENV-app.log
+  - path: /src/log/*.log
+    tag: ecs-rgi-api-$RAILS_ENV-app-debug.log
+destination:
+  host: ${PAPERTRAIL_HOST}
+  port: ${PAPERTRAIL_PORT}
+  protocol: tls
+exclude_patterns:

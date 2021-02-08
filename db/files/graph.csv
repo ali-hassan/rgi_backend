@@ -1,0 +1,53 @@
+Country,ISO,O&G,M,x,y,size,color
+Algeria,DZA,1,0,33,608268,39.67,orange
+Angola,AGO,1,0,35,630414,25.02,orange
+Argentina,ARG,1,0,57,187269,43.42,yellow
+Azerbaijan,AZE,1,0,47,310584.71,9.65,yellow
+Bahrain,BHR,1,0,39,17931.21,1.38,orange
+Bangladesh,BGD,1,0,36,1460,161.00,orange
+Bolivia,BOL,1,0,54,18615,10.72,yellow
+Brazil,BRA,1,0,71,963120,207.85,light green
+Cameroon,CMR,1,0,54,408435,23.34,yellow
+Canada (Alberta),CA-AB,1,0,75,1316510.57,35.85,dark green
+Chad,TCD,1,0,34,28642.8256372669,14.04,orange
+China,CHN,1,0,55,1460918.28,1371.22,yellow
+Colombia,COL,0,1,71,245425,48.23,light green
+Congo,COG,1,0,39,101260.855,4.62,orange
+Côte d'Ivoire,CIV,1,0,55,131400,22.70,yellow
+Cuba,CUB,1,0,36,18250,11.39,orange
+Democratic Republic of Congo,COD,0,1,25,9125,77.27,red
+Ecuador,ECU,1,0,54,201052,16.14,yellow
+Egypt,EGY,1,0,39,238382.1,91.51,orange
+Equatorial Guinea,GNQ,1,0,22,89538.88,0.85,red
+Gabon,GAB,1,0,36,78475,1.73,orange
+Ghana ,GHA,0,1,67,37625.4166666667,27.41,light green
+India,IND,1,0,70,268159.92,1311.05,light green
+Indonesia ,IDN,0,1,68,236059,257.56,light green
+Iran,IRN,1,0,38,1336375,79.11,orange
+Iraq,IRQ,1,0,38,1718551,36.42,orange
+Kazakhstan,KAZ,1,0,56,530661.8,17.54,yellow
+Kuwait,KWT,1,0,54,989811,3.89,yellow
+Libya,LBY,1,0,18,157650,6.28,red
+Malaysia,MYS,1,0,56,261700.142,30.33,yellow
+Mexico ,MEX,0,1,61,900097.14,127.02,light green
+Myanmar ,MMR,0,1,31,3259.151,53.90,orange
+Nigeria,NGA,1,0,42,699168,182.20,orange
+Norway,NOR,1,0,86,714685.82,5.20,dark green
+Oman,OMN,1,0,50,61476.62,4.49,yellow
+Qatar,QAT,1,0,43,238485,2.24,orange
+Russia,RUS,1,0,45,4084214.308,144.10,yellow
+Saudi Arabia,SAU,1,0,36,3828467,31.54,orange
+South Sudan,SSD,1,0,32,53924.224,12.34,orange
+Sudan,SDN,1,0,21,101680.97,40.23,red
+Trinidad and Tobago,TTO,1,0,64,34701,1.36,light green
+Tunisia ,TUN,0,1,56,19189.5,11.11,yellow
+Turkmenistan,TKM,1,0,11,75272.855,5.37,red
+Uganda,UGA,1,0,44,24455,39.03,orange
+Ukraine,UKR,1,0,49,18438.61,45.20,yellow
+United Arab Emirates,ARE,1,0,42,1066917,9.16,orange
+United Kingdom,GBR,1,0,77,371187.32,65.14,dark green
+United States of America (Gulf of Mexico),GOM,1,0,74,4521670,321.42,light green
+Uzbekistan,UZB,1,0,29,23441.103,31.30,red
+Venezuela,VEN,1,0,33,943144,31.11,orange
+Vietnam,VNM,1,0,48,132093.72,91.70,yellow
+Yemen,YEM,1,0,30,16992.575,26.83,orange
